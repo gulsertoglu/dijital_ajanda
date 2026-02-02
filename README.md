@@ -1,2 +1,2 @@
 # dijital_ajanda
-apk uzantılı dijital bir ajanda yapmak hedefim.
+apk ve exe uzantılı dijital bir ajanda yapmak hedefim.
